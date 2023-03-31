@@ -102,13 +102,13 @@ img {
  }
 
 #project1 {
-  background-image: url(../images/inprogress.jpg);
+  background-image: url(../images/mmss.png);
   background-size: cover;
   background-position: center;
 }
 
 #project2 {
-  background-image: url(../images/inprogress.jpg);
+  background-image: url(https://pederson-inspections.herokuapp.com/);
   background-size: cover;
   background-position: center;
 }
