@@ -1,3 +1,4 @@
+![Screenshot_20230130_012022](https://user-images.githubusercontent.com/116038369/215574812-6275f731-807b-4121-a4eb-be56f5183c1c.png)
 # Professional Portfolio
 The professional portfolio is designed to showcase a student's work for future employers. Is should show that the student has an elemental understanding of webdesign, so the web page should be set up to be flexible across all mobile devices and computers and should have a navigation bar that works to link to areas of the webpage and have links that go to an external source (ideally the student's projects they have done).
 
